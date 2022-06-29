@@ -1,0 +1,4 @@
+rootProject.name = "GameStreetSDK"
+include ':app'
+include ':toastedlibrary'
+include ':gamestreet'
